@@ -1,11 +1,11 @@
 <h1>Olá, sou a Júlia! 🌷</h1>
-<h2>🌸 Sumário</h2>
+<h2 href="#sumário">🌸 Sumário</h2>
 <p>🟪 <a href="#sobre-mim">Sobre mim</a></p>
 <p>🟪 <a href="#meus-projetos">Meus Projetos</a></p>
 <div class="semestre1">
 <ul><a href="#rimdoamor">1º Semestre • 2/2022 • Rim do Amor </a>
   <details>
-    <summary>Detalhes</summary>
+    <summary">Detalhes</summary>
     <ul>🟪 <a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a></ul>
     <ul>🟪 <a href="#contribuições-pessoais">Contribuições Pessoais</a></ul>
     <ul>🟪 <a href="#lições-aprendidas">Lições Aprendidas</a>
