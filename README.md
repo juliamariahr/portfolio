@@ -1,16 +1,16 @@
-<h1>Olá, sou a Júlia!</h1>
-<h2>Sumário</h2>
-<p>◻️ <a href="#sobre-mim">Sobre mim</a></p>
-<p>◻️ <a href="#meus-projetos">Meus Projetos</a></p>
+<h1>Olá, sou a Júlia! 🌷</h1>
+<h2>🌸 Sumário</h2>
+<p>🟪 <a href="#sobre-mim">Sobre mim</a></p>
+<p>🟪 <a href="#meus-projetos">Meus Projetos</a></p>
 <div class="semestre1">
 <ul><a href="#rimdoamor">1º Semestre • 2/2022 • Rim do Amor </a>
   <details>
     <summary>Detalhes</summary>
-    <ul>◻️ <a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a></ul>
-    <ul>◻️ <a href="#contribuições-pessoais">Contribuições Pessoais</a></ul>
-    <ul>◻️ <a href="#lições-aprendidas">Lições Aprendidas</a>
-    <ul>◻️ <a href="#hard-skills">Hard Skills</a></ul>
-    <ul>◻️ <a href="#soft-skills">Soft Skills</a></ul>
+    <ul>🟪 <a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a></ul>
+    <ul>🟪 <a href="#contribuições-pessoais">Contribuições Pessoais</a></ul>
+    <ul>🟪 <a href="#lições-aprendidas">Lições Aprendidas</a>
+    <ul>🟪 <a href="#hard-skills">Hard Skills</a></ul>
+    <ul>🟪 <a href="#soft-skills">Soft Skills</a></ul>
     </ul>
   </details>
 </ul>
@@ -19,11 +19,11 @@
 <ul><a href="#gestao">2º Semestre • 1/2023 • Gestão de Chamadas de Serviços </a>
   <details>
     <summary>Detalhes</summary>
-    <ul>◻️ <a href="#tecnologias-utilizadas-">Tecnologias Utilizadas</a></ul>
-    <ul>◻️ <a href="#contribuições-pessoais-">Contribuições Pessoais</a></ul>
-    <ul>◻️ <a href="#lições-aprendidas-">Lições Aprendidas</a>
-    <ul>◻️ <a href="#hard-skills-">Hard Skills</a></ul>
-    <ul>◻️ <a href="#soft-skills-">Soft Skills</a></ul>
+    <ul>🟪 <a href="#tecnologias-utilizadas-">Tecnologias Utilizadas</a></ul>
+    <ul>🟪 <a href="#contribuições-pessoais-">Contribuições Pessoais</a></ul>
+    <ul>🟪 <a href="#lições-aprendidas-">Lições Aprendidas</a>
+    <ul>🟪 <a href="#hard-skills-">Hard Skills</a></ul>
+    <ul>🟪 <a href="#soft-skills-">Soft Skills</a></ul>
     </ul>
   </details>
 </ul>
@@ -33,24 +33,24 @@
 <ul><a href="#sync">3º Semestre • 2/2023 • Portal de Transparência FAPG</a>
   <details>
     <summary>Detalhes</summary>
-    <ul>◻️ <a href="#tecnologias-utilizadas--">Tecnologias Utilizadas</a></ul>
-    <ul>◻️ <a href="#contribuições-pessoais--">Contribuições Pessoais</a></ul>
-    <ul>◻️ <a href="#lições-aprendidas--">Lições Aprendidas</a>
-    <ul>◻️ <a href="#hard-skills--">Hard Skills</a></ul>
-    <ul>◻️ <a href="#soft-skills--">Soft Skills</a></ul>
+    <ul>🟪 <a href="#tecnologias-utilizadas--">Tecnologias Utilizadas</a></ul>
+    <ul>🟪 <a href="#contribuições-pessoais--">Contribuições Pessoais</a></ul>
+    <ul>🟪 <a href="#lições-aprendidas--">Lições Aprendidas</a>
+    <ul>🟪 <a href="#hard-skills--">Hard Skills</a></ul>
+    <ul>🟪 <a href="#soft-skills--">Soft Skills</a></ul>
     </ul>
   </details>
 </ul>
 </div>
 <hr>
-<h2>Sobre mim</h2>
+<h2>🌸 Sobre mim</h2>
 <p align="center"><img src="https://avatars.githubusercontent.com/u/142221388?v=4" width="30%"></p>
-<p>Estudante no terceiro semestre de Desenvolvimento de Software Multiplataforma na Fatec São José dos Campos. Atualmente estagiando na dbsnOOp como Desenvolvedora FullStack, aonde tenho aplicado meus conhecimento da faculdade em um verdadeiro ambiente de trabalho!</p>
+<p>Sou a Júlia, tenho 22 anos e sou estudante do terceiro semestre de Desenvolvimento de Software Multiplataforma na Fatec São José dos Campos. Atualmente estagiando na dbsnOOp como Desenvolvedora FullStack, aonde tenho aplicado meus conhecimento da faculdade em um verdadeiro ambiente de trabalho!</p>
 <p align="center"><a href="https://www.linkedin.com/in/j%C3%BAlia-rosado/">LinkedIn</a> ♥ <a href="https://github.com/juliamariahr">GitHub</a></p>
 <hr>
-<h2>Meus Projetos</h2>
+<h2>🌸 Meus Projetos</h2>
 <div class="semestre1">
-<h3 id="rimdoamor">Rim do Amor</h3>
+<h3 id="rimdoamor">⭐️ Rim do Amor</h3>
 <h4>1º Semestre • 2/2023 • <a href="https://github.com/TeamHiveAPI/API-2023.2">Repositório Github e Documentação do Projeto</a></h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">Faculdade de Tecnologia de São José dos Campos</a> (projeto interno)</p>
 <p align="center"><img src="hive.png" width="20%"></img>
@@ -156,7 +156,7 @@
 </div>
 <hr>
 <div class="semestre2">
-<h3 id="gestao">Gestão de Chamadas de Serviços</h3>
+<h3 id="gestao">⭐️ Gestão de Chamadas de Serviços</h3>
 <h4>2º Semestre • 1/2024 • <a href="https://github.com/Code-Nine-FTC/API-2024.1">Repositório Github e Documentação do Projeto</a></h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">Faculdade de Tecnologia de São José dos Campos</a> (projeto interno)</p>
 <p align="center"><img src="codenine.png" width="20%"></img>
@@ -253,7 +253,7 @@
 </div>
 <hr>
 <div class="semestre3">
-<h3 id="sync">Portal de Transparência FAPG</h3>
+<h3 id="sync">⭐️ Portal de Transparência FAPG</h3>
 <h4>3º Semestre • 2/2024 • <a href="https://github.com/Sync-FATEC/API-2024.2-3SEM">Repositório Github e Documentação do Projeto</a></h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://fapg.org.br/">FAPG</a></p>
 <p align="center"><img src="sync.png" width="20%"></img>
