@@ -151,7 +151,8 @@
     </tr>
   </table>
 </details>
-<p align="justify"><b>Proatividade: </b>No começo da faculdade, estava super animada, mas sabia muito pouco sobre as tecnologias e metodologias ao meu redor. Mesmo assim, minha vontade de aprender era enorme! Acredito que foi o semestre em que mais me esforcei para me comunicar melhor com minhas colegas e fui bastante proativa para garantir que entregássemos um bom MVP. Apesar de não ter experiência com o método SCRUM, conseguimos nos adaptar bem ao longo das quatro sprints.</p>
+<p align="justify">No começo da faculdade, estava super animada, mas sabia muito pouco sobre as tecnologias e metodologias ao meu redor. Mesmo assim, minha vontade de aprender era enorme! Foi o semestre em que mais me esforcei para me comunicar melhor com minhas colegas e fui bastante proativa para garantir que entregássemos um bom MVP.  
+Apesar de não ter experiência com o método SCRUM, conseguimos nos adaptar ao longo das quatro sprints, mesmo enfrentando problemas no grupo. Diversas pessoas decidiram trancar no meio do semestre e, enquanto não formalizavam sua saída, deixavam tasks pendentes, causando atrasos e gerando estresse para o restante da equipe. Porém, nas sprints finais, conseguimos alinhar esforços e entregar o que o cliente desejava. Embora tenha sido um período bastante estressante, tivemos uma visão clara de como seriam os desafios e aprendizados dos próximos semestres.</p>
 <p><a href="#sumário">Voltar para o início</a></p>
 </div>
 <hr>
@@ -248,7 +249,7 @@
     </tr>
   </table>
 </details>
-<p align="justify">Nesse semestre, a <b>visão de negócio</b> em conjunto com a <b>proatividade</b> nos levou a alcançar um resultado bem interessante, onde podíamos ver que o trabalho realizado no primeiro semestre havia nos ensinado bastante, mas ainda tínhamos muito o que aprender, principalmente ao lidar com a organização de pessoas, tivemos um projeto bem mais sólido e conseguimos aprender um conjunto de ferramentas bem variadas e cumprimos com todos os prazos estabelecidos pelo cliente.</p>
+<p align="justify">Nesse semestre, a visão de negócio em conjunto com a proatividade nos levou a alcançar um resultado interessante, mostrando o quanto o trabalho realizado no primeiro semestre nos ensinou. No entanto, também percebemos que ainda havia muito a aprender, principalmente na organização de pessoas. Apesar de termos um projeto mais sólido e de cumprirmos todos os prazos estabelecidos, algumas entregas não atingiram as expectativas do cliente em certas sprints, gerando frustração. Contudo, isso nos motivou a melhorar nossas entregas no geral, refinando processos e aprendendo com os erros para alcançar resultados mais alinhados às demandas.</p>
 <p><a href="#sumário">Voltar para o início</a></p>
 </div>
 <hr>
