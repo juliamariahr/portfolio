@@ -151,8 +151,11 @@
     </tr>
   </table>
 </details>
-<p align="justify">No começo da faculdade, estava super animada, mas sabia muito pouco sobre as tecnologias e metodologias ao meu redor. Mesmo assim, minha vontade de aprender era enorme! Foi o semestre em que mais me esforcei para me comunicar melhor com minhas colegas e fui bastante proativa para garantir que entregássemos um bom MVP.  
-Apesar de não ter experiência com o método SCRUM, conseguimos nos adaptar ao longo das quatro sprints, mesmo enfrentando problemas no grupo. Diversas pessoas decidiram trancar no meio do semestre e, enquanto não formalizavam sua saída, deixavam tasks pendentes, causando atrasos e gerando estresse para o restante da equipe. Porém, nas sprints finais, conseguimos alinhar esforços e entregar o que o cliente desejava. Embora tenha sido um período bastante estressante, tivemos uma visão clara de como seriam os desafios e aprendizados dos próximos semestres.</p>
+<p align="justify"><b>Proatividade e Adaptação:</b> No começo da faculdade, estava super animada, mas sabia pouco sobre as tecnologias e metodologias ao meu redor. Mesmo assim, minha vontade de aprender e contribuir era enorme! Foi o semestre em que mais me esforcei para me comunicar melhor com minhas colegas e para ser proativa, garantindo que entregássemos um bom MVP mesmo diante das dificuldades.  
+
+<b>Resiliência e Trabalho em Equipe:</b> Embora não tivesse experiência com o método SCRUM, adaptei-me rapidamente e contribuí para que a equipe se ajustasse ao longo das quatro sprints. Enfrentamos desafios significativos, como a saída de várias pessoas que trancaram o semestre e deixaram tarefas pendentes, causando atrasos e estresse.  
+
+<b>Gerenciamento Emocional e Foco em Resultados:</b> Apesar das dificuldades, conseguimos nos organizar nas sprints finais, alinhar esforços e entregar o que o cliente desejava. Esse processo exigiu resiliência, colaboração e foco. Embora tenha sido um período desgastante, ele nos proporcionou uma visão clara dos desafios e aprendizados que viriam nos próximos semestres.</p>
 <p><a href="#sumário">Voltar para o início</a></p>
 </div>
 <hr>
@@ -249,7 +252,13 @@ Apesar de não ter experiência com o método SCRUM, conseguimos nos adaptar ao 
     </tr>
   </table>
 </details>
-<p align="justify">Nesse semestre, a visão de negócio em conjunto com a proatividade nos levou a alcançar um resultado interessante, mostrando o quanto o trabalho realizado no primeiro semestre nos ensinou. No entanto, também percebemos que ainda havia muito a aprender, principalmente na organização de pessoas. Apesar de termos um projeto mais sólido e de cumprirmos todos os prazos estabelecidos, algumas entregas não atingiram as expectativas do cliente em certas sprints, gerando frustração. Contudo, isso nos motivou a melhorar nossas entregas no geral, refinando processos e aprendendo com os erros para alcançar resultados mais alinhados às demandas.</p>
+<p align="justify"><b>Visão de Negócio e Proatividade:</b> Nesse semestre, a visão de negócio aliada à proatividade nos permitiu alcançar resultados significativos, demonstrando o quanto o aprendizado do primeiro semestre contribuiu para o nosso crescimento.  
+
+<b>Organização e Gestão de Equipe:</b> Percebemos, no entanto, que ainda havia muito a melhorar, especialmente na organização e gestão de pessoas, já que alguns desafios surgiram nesse aspecto.  
+
+<b>Aprendizado com Erros e Resiliência:</b> Embora o projeto fosse mais sólido e os prazos tivessem sido cumpridos, algumas entregas ficaram aquém das expectativas do cliente em certas sprints, o que gerou frustração. Ainda assim, essa experiência nos motivou a aprender com os erros, refinar processos e entregar resultados mais alinhados às demandas nas sprints seguintes.  
+
+<b>Foco em Melhorias e Crescimento Contínuo:</b> Essas lições fortaleceram nossa capacidade de melhorar continuamente e aprimorar o trabalho em equipe, visando sempre um alinhamento mais claro com os objetivos do cliente.</p>
 <p><a href="#sumário">Voltar para o início</a></p>
 </div>
 <hr>
