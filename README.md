@@ -280,7 +280,8 @@
   <li>Desenvolvimento da interface de pesquisa de bolsas e bolsistas, com filtros flexíveis para facilitar a busca e visualização das informações.</li>
 </ul>
 <h3 id="lições-aprendidas--">Lições Aprendidas</h3>
-<p align="justify">Durante o desenvolvimento do Portal de Transparência, aprendi a importância da comunicação clara com a equipe. A experiência de trabalhar com uma equipe multidisciplinar e com prazos apertados me permitiu aprimorar minha capacidade de gerenciar expectativas e de adaptação às mudanças de requisitos. Além disso, o apoio constante do time e do Scrum Master foi fundamental para o sucesso do projeto, garantindo que todos os desafios fossem superados e o projeto entregue conforme o esperado.</p>
+<p align="justify">Durante o desenvolvimento do Portal de Transparência, aprendi a importância crucial da comunicação clara com a equipe. No entanto, o início do projeto foi extremamente estressante devido a problemas de comunicação e organização no grupo original. A falta de alinhamento gerava constantes retrabalhos, atrasos e conflitos, tornando o ambiente desgastante e desmotivador. O nível de estresse foi tão elevado que o grupo acabou sendo dissolvido, e cada integrante foi redistribuído para equipes diferentes.
+Embora essa situação tenha sido exaustiva, a troca de equipe trouxe um alívio imediato. O novo grupo tinha uma dinâmica muito mais colaborativa e organizada, permitindo que o trabalho fluísse de maneira mais tranquila e produtiva. A experiência de trabalhar com uma equipe multidisciplinar e com prazos apertados me permitiu aprimorar minha capacidade de gerenciar expectativas e me adaptar rapidamente às mudanças de requisitos. Além disso, o apoio constante do novo time e do Scrum Master foi essencial para superar os desafios e entregar o projeto com qualidade, apesar do início conturbado.</p>
 <h3 id="hard-skills--">Hard Skills</h3>
 <details>
   <summary><b>Clique para ver a lista de hard skills</b></summary>
@@ -346,7 +347,13 @@
     </tr>
   </table>
 </details>
-<p align="justify"><b>Organização e Planejamento:</b> Durante o desenvolvimento do projeto, aprendi a importância de me organizar para lidar com a grande quantidade de tarefas, não só na API, mas também com todas as responsabilidades do semestre. A demanda era alta, e o planejamento se mostrou essencial para garantir que todas as entregas fossem feitas no tempo certo e com a qualidade esperada. Aprimorei minha capacidade de priorizar as tarefas, dividir o trabalho de maneira eficiente e me concentrar nas atividades mais críticas. Esse semestre me ensinou a gerenciar meu tempo de forma mais eficaz, especialmente quando a carga de trabalho é intensa e exige muito foco.</p>
+<p align="justify"><b>Organização e Planejamento:</b> Aprendi a priorizar tarefas, dividir o trabalho de forma eficiente e gerenciar meu tempo, garantindo entregas de qualidade mesmo sob alta demanda.  
+
+<b>Gestão de Conflitos e Adaptação:</b> Superar o estresse de um grupo desorganizado me ensinou a lidar com conflitos, me adaptar a mudanças e manter o foco em situações adversas.  
+
+<b>Colaboração e Comunicação:</b> A troca de equipe reforçou a importância da comunicação clara e do trabalho colaborativo para o sucesso de um projeto.  
+
+<b>Gerenciamento Emocional:</b> Desenvolvi resiliência e estratégias para lidar com a pressão, mantendo minha produtividade em cenários desafiadores.</p>
 <p><a href="#sumário">Voltar para o início</a></p>
 </div>
 <hr>
